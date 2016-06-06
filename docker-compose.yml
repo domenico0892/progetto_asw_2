@@ -1,0 +1,16 @@
+
+version: "2"
+services:
+ application:
+  build: .
+  ports:
+   - "3000:3000"
+   - "5858:5858"
+  depends_on:
+   - mongo
+  entrypoint: ./wait-for-it.sh -h mongo -p 27017 -- node --debug=5858 server.js --color=always
+ mongo:
+  image: mongo:latest
+  ports:
+   - "27017:27017"
+ 
