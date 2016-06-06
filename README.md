@@ -1,11 +1,9 @@
-# Progetto Architetture Software
+# Secondo Progetto Architetture Software (Docker + REST API)
+### di Tommaso D'Ambrosio, Claudio Del Nero, Lorenzo D'Isidoro e Domenico Giammarino
 
-## Installazione
-1. Download del repository
-2. Installazione dei moduli npm: `npm install`
-3. Installazione delle dipendenze bower `bower install`
-4. Start up del server: `node server.js`
-5. La home page è disponibile in locale sulla porta 3000 http://localhost:3000
-
-Il progetto è curato da: Lorenzo D'Isidoro, Domenico Giammarino, Claudio Del Nero e Tommaso D'Ambrosio
-# progetto_asw_2
+## Istruzioni:
+1. Avviare il demone di Docker
+2. Posizionarsi con il terminale nella root del progetto
+3. Eseguire `docker-compose up`
+4. L'homepage è disponibile sulla porta 3000 (attenzione all'indirizzo IP locale su cui Docker lavora)
+5. E' possibile, a questo punto, usare i due script di test delle API del medico e del paziente. Attenzione a rendere eseguibili gli script!
