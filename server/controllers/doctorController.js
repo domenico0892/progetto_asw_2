@@ -131,21 +131,12 @@ module.exports = function (apiRoutesAuth) {
                         .catch(function (error) {
                             res.status(500).json({
                                 "success": false,
-                                "message": "One promises failded",
+                                "message": "Internal server error on DELETE",
                                 "error": error
                             });
                         });
 
-                })
-                .catch(function (err) {
-                    res.status(500).json({
-                        "success": false,
-                        "message": "Internal server error",
-                        "error": err
-                    });
                 });
-
-
 
         });
 
