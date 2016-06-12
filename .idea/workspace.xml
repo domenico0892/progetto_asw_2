@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a1599e0-e546-401e-89bc-7e6a637711db" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/controllers/doctorController.js" afterPath="$PROJECT_DIR$/server/controllers/doctorController.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/controllers/patientController.js" afterPath="$PROJECT_DIR$/server/controllers/patientController.js" />
     </list>
     <ignored path="ASW_progetto_mean.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,11 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="patientController.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="patientController.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/server/controllers/patientController.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.741844">
-              <caret line="144" column="19" selection-start-line="144" selection-start-column="19" selection-end-line="144" selection-end-column="19" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="120" column="0" selection-start-line="120" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
               <folding>
                 <element signature="e#212#845#0" expanded="false" />
                 <element signature="e#904#1762#0" expanded="false" />
@@ -40,11 +38,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="doctorController.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="doctorController.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/server/controllers/doctorController.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="139" column="0" selection-start-line="139" selection-start-column="0" selection-end-line="144" selection-end-column="19" />
+            <state vertical-scroll-proportion="0.7617021">
+              <caret line="142" column="42" selection-start-line="142" selection-start-column="42" selection-end-line="142" selection-end-column="42" />
               <folding>
                 <element signature="e#233#860#0" expanded="false" />
                 <element signature="e#918#1794#0" expanded="false" />
@@ -99,8 +97,8 @@
         <option value="$PROJECT_DIR$/server/models/doctor.js" />
         <option value="$PROJECT_DIR$/client/js/controllers/patientsController.js" />
         <option value="$PROJECT_DIR$/client/views/patientsView.html" />
-        <option value="$PROJECT_DIR$/server/controllers/doctorController.js" />
         <option value="$PROJECT_DIR$/server/controllers/patientController.js" />
+        <option value="$PROJECT_DIR$/server/controllers/doctorController.js" />
       </list>
     </option>
   </component>
@@ -303,9 +301,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16362192" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16362192" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33150685" sideWeight="0.50277996" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -708,28 +706,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server/controllers/doctorController.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="139" column="0" selection-start-line="139" selection-start-column="0" selection-end-line="144" selection-end-column="19" />
-          <folding>
-            <element signature="e#233#860#0" expanded="false" />
-            <element signature="e#918#1794#0" expanded="false" />
-            <element signature="e#1861#2802#0" expanded="false" />
-            <element signature="e#2859#3442#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/server/controllers/patientController.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.741844">
-          <caret line="144" column="19" selection-start-line="144" selection-start-column="19" selection-end-line="144" selection-end-column="19" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="120" column="0" selection-start-line="120" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
           <folding>
             <element signature="e#212#845#0" expanded="false" />
             <element signature="e#904#1762#0" expanded="false" />
             <element signature="e#1820#2404#0" expanded="false" />
             <element signature="e#2473#3421#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/controllers/doctorController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7617021">
+          <caret line="142" column="42" selection-start-line="142" selection-start-column="42" selection-end-line="142" selection-end-column="42" />
+          <folding>
+            <element signature="e#233#860#0" expanded="false" />
+            <element signature="e#918#1794#0" expanded="false" />
+            <element signature="e#1861#2802#0" expanded="false" />
+            <element signature="e#2859#3442#0" expanded="false" />
           </folding>
         </state>
       </provider>
